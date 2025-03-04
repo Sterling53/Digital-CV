@@ -271,3 +271,13 @@ body.aboutpage{
     background-clip: padding-box;
     position: relative;
 }
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid black;
+}
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
